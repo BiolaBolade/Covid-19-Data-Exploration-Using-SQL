@@ -5,7 +5,7 @@
 ### Dataset:
 The dataset set contains two (2) Microsoft Excel files. One of the files was named _"CovidDeaths"_, while the other was named _"CovidVaccinations"_.
 
-## Questiions Answers:
+### Questions Answered:
 I answered the following questions using my sql exploration skills:
 - Percenatge of Death Rate
 - Percentage of infceted people
