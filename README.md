@@ -7,8 +7,8 @@ The dataset set contains two (2) Microsoft Excel files. One of the files was nam
 
 ### Questions Answered:
 I answered the following questions using my sql exploration skills:
-- Percenatge of Death Rate
-- Percentage of infceted people
+- Percentage of Death Rate
+- Percentage of infected people
 - Countries with the highest infection rate
 - Continents with the highest death count
 - Countries with the highest death count
